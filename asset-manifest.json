@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FacundoTMedrano/tenzies/static/css/main.c18dd0b6.css",
+    "main.js": "/FacundoTMedrano/tenzies/static/js/main.acbad5a5.js",
+    "index.html": "/FacundoTMedrano/tenzies/index.html",
+    "main.c18dd0b6.css.map": "/FacundoTMedrano/tenzies/static/css/main.c18dd0b6.css.map",
+    "main.acbad5a5.js.map": "/FacundoTMedrano/tenzies/static/js/main.acbad5a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c18dd0b6.css",
+    "static/js/main.acbad5a5.js"
+  ]
+}
